@@ -1,0 +1,26 @@
+[
+    {
+        "name": "command_c735f551fabaa8ffca8003dbfdd9efa3",
+        "type": "command",
+        "action": "foo:bar",
+        "environment": "[]",
+        "output": "",
+        "error": null,
+        "start_at": "2022-07-29 23:58:03",
+        "end_at": "2022-07-29 23:58:03",
+        "duration": "00:00",
+        "test_time": null
+    },
+    {
+        "name": "SMS Notification",
+        "type": "closure",
+        "action": "{}",
+        "environment": "[]",
+        "output": "Called every minute",
+        "error": null,
+        "start_at": "2022-07-29 23:58:03",
+        "end_at": "2022-07-29 23:58:03",
+        "duration": "00:00",
+        "test_time": null
+    }
+]

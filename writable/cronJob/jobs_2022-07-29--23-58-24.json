@@ -1,0 +1,14 @@
+[
+    {
+        "name": "SMS Notification",
+        "type": "closure",
+        "action": "{}",
+        "environment": "[]",
+        "output": "Called every minute",
+        "error": null,
+        "start_at": "2022-07-29 23:58:24",
+        "end_at": "2022-07-29 23:58:24",
+        "duration": "00:00",
+        "test_time": null
+    }
+]
